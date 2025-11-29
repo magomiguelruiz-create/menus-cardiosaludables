@@ -1,0 +1,5 @@
+{
+  "name": "ChefBot - Menú Diario",
+  "description": "Generador de menús diarios variados con recetas detalladas utilizando IA. Nunca repite los últimos 5 menús.",
+  "requestFramePermissions": []
+}
